@@ -28,6 +28,12 @@
                     </li>
 
                 </ul>
+                <ul class="dropdown-menu">
+                    <li '>
+                        <a class="nav-link" href="{{ route('products.index') }}">All Products</a>
+                    </li>
+
+                </ul>
             </li>
 
     </aside>
